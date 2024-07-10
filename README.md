@@ -6,7 +6,7 @@ Welcome to the Ozempic Payment Impact Analysis Project! Our goal is to analyze a
 
 ## Project Objectives
 
-- **Identify Key Cost Drivers** 🔍: Determine which factors, such as patient demographics, provider details, and treatment specifics, significantly influence the cost.
+- **Identify Key Cost Drivers** 🔍: Determine which factors, such as patient demographics, provider details, and treatment specifics, significantly influence the cost. 
 - **Predictive Modeling** 🧮: Develop a predictive model to estimate the financial impact of various variables on the treatment of Ozempic.
 - **Cost Management Insights** 💡: Provide actionable insights to healthcare providers and patients on optimizing and managing treatment expenses.
 
